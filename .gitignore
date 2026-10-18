@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+backend/.venv/
+backend/.env
+backend/.pytest_cache/
+
+# Android
+android/.gradle/
+android/build/
+android/*/build/
+android/.idea/
+android/*.iml
+android/*/*.iml
+local.properties
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log

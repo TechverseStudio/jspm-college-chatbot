@@ -1,0 +1,473 @@
+{
+  "generated_at": "2026-10-18",
+  "version": "1.0",
+  "fee_schedule": [
+    {
+      "programme": "B.Tech (First Year)",
+      "category": "Open / OMS (Income > 8 Lakh)",
+      "tuition_fee": "\u20b91,26,087",
+      "development_fee": "\u20b918,913",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b91,46,000"
+    },
+    {
+      "programme": "B.Tech (First Year)",
+      "category": "OBC / EWS / EBC (Boys)",
+      "tuition_fee": "\u20b963,044",
+      "development_fee": "\u20b918,913",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b982,957"
+    },
+    {
+      "programme": "B.Tech (First Year)",
+      "category": "NT / SBC / TFWS & OBC/EWS/EBC (Girls)",
+      "tuition_fee": "\u20b90",
+      "development_fee": "\u20b918,913",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b919,913"
+    },
+    {
+      "programme": "B.Tech (First Year)",
+      "category": "SC / ST",
+      "tuition_fee": "\u20b90",
+      "development_fee": "\u20b90",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b91,000"
+    },
+    {
+      "programme": "B.Tech Direct Second Year (DSY)",
+      "category": "Open / OMS (Income > 8 Lakh)",
+      "tuition_fee": "\u20b91,15,652",
+      "development_fee": "\u20b917,348",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b91,34,000"
+    },
+    {
+      "programme": "B.Tech Direct Second Year (DSY)",
+      "category": "OBC / EWS / EBC (Boys)",
+      "tuition_fee": "\u20b957,826",
+      "development_fee": "\u20b917,348",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b976,174"
+    },
+    {
+      "programme": "B.Tech Direct Second Year (DSY)",
+      "category": "NT / SBC / TFWS & Girls",
+      "tuition_fee": "\u20b90",
+      "development_fee": "\u20b917,348",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b918,348"
+    },
+    {
+      "programme": "B.Tech Direct Second Year (DSY)",
+      "category": "SC / ST",
+      "tuition_fee": "\u20b90",
+      "development_fee": "\u20b90",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b91,000"
+    },
+    {
+      "programme": "BCA (First Year)",
+      "category": "Open / OMS",
+      "tuition_fee": "\u20b945,000",
+      "development_fee": "\u20b95,000",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b951,000"
+    },
+    {
+      "programme": "MCA (First Year)",
+      "category": "Open / OMS",
+      "tuition_fee": "\u20b91,24,000",
+      "development_fee": "\u20b918,500",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b91,43,500"
+    },
+    {
+      "programme": "MBA (First Year)",
+      "category": "Open / OMS",
+      "tuition_fee": "\u20b91,18,000",
+      "development_fee": "\u20b917,500",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b91,36,500"
+    },
+    {
+      "programme": "M.Tech (First Year)",
+      "category": "Open / OMS",
+      "tuition_fee": "\u20b91,18,500",
+      "development_fee": "\u20b917,500",
+      "university_fee": "\u20b91,000",
+      "total_fee": "\u20b91,37,000"
+    }
+  ],
+  "placement_statistics": [
+    {
+      "academic_year": "2025-26",
+      "companies_visited": "550+",
+      "students_placed": "800+",
+      "offers": "1,100+",
+      "max_salary": "\u20b933.8 LPA"
+    },
+    {
+      "academic_year": "2024-25",
+      "companies_visited": "500+",
+      "students_placed": "780+",
+      "offers": "1,000+",
+      "max_salary": "\u20b930 LPA"
+    },
+    {
+      "academic_year": "2023-24",
+      "companies_visited": "500+",
+      "students_placed": "765",
+      "offers": "1,000+",
+      "max_salary": "1 Cr. LPA (As published)"
+    },
+    {
+      "academic_year": "2022-23",
+      "companies_visited": "200+",
+      "students_placed": "524",
+      "offers": "800+",
+      "max_salary": "\u20b947 LPA"
+    },
+    {
+      "academic_year": "2021-22",
+      "companies_visited": "250+",
+      "students_placed": "647",
+      "offers": "1,100+",
+      "max_salary": "\u20b942 LPA"
+    }
+  ],
+  "official_contacts": [
+    {
+      "name": "Dr. Avinash Badadhe",
+      "role": "Principal",
+      "institute": "RSCOE",
+      "phone": "+91-9850557177",
+      "email": "principal@jspmrscoe.edu.in",
+      "department": null,
+      "source_url": "https://www.jspmrscoe.edu.in/admissionenquiry/contact-no"
+    },
+    {
+      "name": "Campus Director Desk",
+      "role": "Director Desk",
+      "institute": "RSCOE",
+      "phone": "+91-8149094248",
+      "email": "principal@jspmrscoe.edu.in",
+      "department": null,
+      "source_url": "https://www.jspmrscoe.edu.in/admissionenquiry/contact-no"
+    },
+    {
+      "name": "Dr. Saurabh Tayde",
+      "role": "Training & Placement Head (SPIR)",
+      "institute": "RSCOE",
+      "phone": "+91-9552046715",
+      "email": "principal@jspmrscoe.edu.in",
+      "department": null,
+      "source_url": "https://www.jspmrscoe.edu.in/admissionenquiry/contact-no"
+    },
+    {
+      "name": "Dr. Amol Patil / Dr. Satyajit Kasar",
+      "role": "First Year B.Tech Admissions",
+      "institute": "RSCOE",
+      "phone": "+91-9172390964",
+      "email": "principal@jspmrscoe.edu.in",
+      "department": null,
+      "source_url": "https://www.jspmrscoe.edu.in/admissionenquiry/contact-no"
+    },
+    {
+      "name": "Prof. Ashish Malgave / Dr. P. S. Patil",
+      "role": "Direct Second Year (DSY) Engineering Admissions",
+      "institute": "RSCOE",
+      "phone": "+91-9921901045",
+      "email": "principal@jspmrscoe.edu.in",
+      "department": null,
+      "source_url": "https://www.jspmrscoe.edu.in/admissionenquiry/contact-no"
+    },
+    {
+      "name": "Dr. Seema V. Kedar",
+      "role": "HOD, Computer Engineering",
+      "institute": "RSCOE",
+      "phone": "020-22933423",
+      "email": "hod_comp@jspmrscoe.edu.in",
+      "department": "Computer Engineering",
+      "source_url": "https://www.jspmrscoe.edu.in/ComputerEngineering/contact-us"
+    },
+    {
+      "name": "Prof. Dr. K. P. Moholkar",
+      "role": "HOD, Computer Science & Business Systems (CSBS)",
+      "institute": "RSCOE",
+      "phone": "+91-9960092262",
+      "email": "hod_csbs@jspmrscoe.edu.in",
+      "department": "CSBS",
+      "source_url": "https://www.jspmrscoe.edu.in/computerscience-and-businesssystems/contact-us"
+    },
+    {
+      "name": "Dr. S. C. Wagaj",
+      "role": "HOD, Electronics & Telecommunication (E&TC)",
+      "institute": "RSCOE",
+      "phone": "+91-9970063553",
+      "email": "scwagaj@gmail.com",
+      "department": "E&TC",
+      "source_url": "https://www.jspmrscoe.edu.in/eandtc-engineering/contact-us"
+    },
+    {
+      "name": "Dr. S. N. Khan",
+      "role": "HOD, Mechanical Engineering",
+      "institute": "RSCOE",
+      "phone": "+91-9373087321",
+      "email": "hod_mech@jspmrscoe.edu.in",
+      "department": "Mechanical Engineering",
+      "source_url": "https://www.jspmrscoe.edu.in/mechanical-engineering/contact-us"
+    },
+    {
+      "name": "Dr. Rinku Dulloo",
+      "role": "HOD, MCA & BCA",
+      "institute": "RSCOE",
+      "phone": "+91-9552565101",
+      "email": "hod_mca@jspmrscoe.edu.in",
+      "department": "MCA & BCA",
+      "source_url": "https://www.jspmrscoe.edu.in/dca/contact-us"
+    },
+    {
+      "name": "Mr. Shivaji Surve",
+      "role": "Hostel Rector / In-Charge",
+      "institute": "RSCOE",
+      "phone": "+91-9604275533",
+      "email": null,
+      "department": null,
+      "source_url": "https://www.jspmrscoe.edu.in/admissionenquiry/contact-no"
+    },
+    {
+      "name": "Mr. Umesh Ubale",
+      "role": "College Bus / Transport In-Charge",
+      "institute": "RSCOE",
+      "phone": "+91-9763722020",
+      "email": null,
+      "department": null,
+      "source_url": "https://www.jspmrscoe.edu.in/admissionenquiry/contact-no"
+    },
+    {
+      "name": "Prof. Anil Tankar",
+      "role": "B.Pharm Admissions & T&P Head",
+      "institute": "RSCOPR",
+      "phone": "+91-9822729314",
+      "email": "anil.tankar@gmail.com",
+      "department": "Pharmacy",
+      "source_url": "https://jspmrscopr.edu.in/ContactUs/20"
+    },
+    {
+      "name": "Dr. Prafulla Chaudhari",
+      "role": "M.Pharm Admissions In-Charge",
+      "institute": "RSCOPR",
+      "phone": "+91-9890626393",
+      "email": "pchaudhari@jspmrscopr.edu.in",
+      "department": "Pharmacy",
+      "source_url": "https://jspmrscopr.edu.in/Admission/96"
+    },
+    {
+      "name": "Dr. S. S. Gaikwad",
+      "role": "Principal, Polytechnic",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "Polytechnic",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    },
+    {
+      "name": "Mrs. V. I. Thakare",
+      "role": "HOD, Computer Engineering (Polytechnic)",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "Computer Engineering",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    },
+    {
+      "name": "Mrs. S. U. Puri",
+      "role": "Department Academic Coordinator (DAC)",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "Computer Engineering",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    },
+    {
+      "name": "Mrs. H. N. Bhandare",
+      "role": "Timetable In-charge",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "Computer Engineering",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    },
+    {
+      "name": "Mrs. Madhuri Patil-Maske",
+      "role": "Faculty, Electronics & Telecommunication",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "E&TC",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    },
+    {
+      "name": "Mrs. Amita Dubey",
+      "role": "Faculty, Electronics & Telecommunication",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "E&TC",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    },
+    {
+      "name": "Mrs. Aparna Deshpande",
+      "role": "Faculty, Electronics & Telecommunication",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "E&TC",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    },
+    {
+      "name": "Mrs. Pournima Bhise",
+      "role": "Faculty, Electronics & Telecommunication",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "E&TC",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    },
+    {
+      "name": "Mrs. Savitha Bajal",
+      "role": "Faculty, Electronics & Telecommunication",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "E&TC",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    },
+    {
+      "name": "Mrs. Pallavi Shah",
+      "role": "Faculty, Electronics & Telecommunication",
+      "institute": "POLYTECHNIC",
+      "phone": null,
+      "email": null,
+      "department": "E&TC",
+      "source_url": "https://polytechnic.jspmrscoe.edu.in/"
+    }
+  ],
+  "polytechnic_info": {
+    "college_name": "JSPM's Rajarshi Shahu College of Engineering (Polytechnic)",
+    "location": "Tathawade, Pimpri-Chinchwad, Pune, Maharashtra – 411033",
+    "type": "Diploma Engineering Institute",
+    "affiliation": "Affiliated to MSBTE, approved by AICTE & DTE Maharashtra",
+    "principal": "Dr. S. S. Gaikwad",
+    "departments": [
+      "Civil Engineering",
+      "Computer Engineering",
+      "Electronics & Telecommunication Engineering",
+      "Mechanical Engineering"
+    ],
+    "etc_department": {
+      "course": "Diploma in Electronics & Telecommunication Engineering",
+      "divisions": 1,
+      "class_designation": "TYEJ",
+      "class_strength": 61,
+      "staff": [
+        "Mrs. Madhuri Patil-Maske",
+        "Mrs. Amita Dubey",
+        "Mrs. Aparna Deshpande",
+        "Mrs. Pournima Bhise",
+        "Mrs. Savitha Bajal",
+        "Mrs. Pallavi Shah"
+      ]
+    },
+    "computer_department": {
+      "course": "Diploma in Computer Engineering",
+      "divisions": 2,
+      "tyco_a_strength": 61,
+      "tyco_b_strength": 58,
+      "total_third_year_students": 119,
+      "hod": "Mrs. V. I. Thakare",
+      "dac": "Mrs. S. U. Puri",
+      "timetable_incharge": "Mrs. H. N. Bhandare"
+    },
+    "reference_websites": [
+      "https://polytechnic.jspmrscoe.edu.in/",
+      "https://www.jspmrscoe.edu.in/Diploma",
+      "https://msbte.ac.in/"
+    ]
+  },
+  "quick_questions": [
+    {
+      "id": "q1",
+      "category": "Fees",
+      "question": "What is the 2026-27 fee structure for first year B.Tech and DSY?",
+      "institute": "RSCOE"
+    },
+    {
+      "id": "q2",
+      "category": "Placements",
+      "question": "What is the highest package and placement record at RSCOE?",
+      "institute": "RSCOE"
+    },
+    {
+      "id": "q3",
+      "category": "Cutoffs",
+      "question": "What are the MHT-CET and JEE Main cutoffs for Computer Engineering?",
+      "institute": "RSCOE"
+    },
+    {
+      "id": "q4",
+      "category": "Polytechnic E&TC",
+      "question": "Who are the staff members and class strength for E&TC (TYEJ) in Polytechnic?",
+      "institute": "POLYTECHNIC"
+    },
+    {
+      "id": "q5",
+      "category": "Polytechnic Computer",
+      "question": "What are the divisions and class strengths of Computer Engineering in Polytechnic?",
+      "institute": "POLYTECHNIC"
+    },
+    {
+      "id": "q6",
+      "category": "Timetable",
+      "question": "What is the official academic timetable and faculty schedule for TYCO-A?",
+      "institute": "POLYTECHNIC"
+    },
+    {
+      "id": "q7",
+      "category": "DSY Admissions",
+      "question": "What is the Direct Second Year (DSY) engineering admission process and contacts?",
+      "institute": "RSCOE"
+    },
+    {
+      "id": "q8",
+      "category": "Hostel & Bus",
+      "question": "Who are the official contacts for boys/girls hostel and college bus transport?",
+      "institute": "RSCOE"
+    },
+    {
+      "id": "q9",
+      "category": "HOD Contacts",
+      "question": "What are the contact details for Computer, E&TC, and Mechanical department HODs?",
+      "institute": "RSCOE"
+    },
+    {
+      "id": "q10",
+      "category": "Pharmacy",
+      "question": "What courses and admission contacts are available for Rajarshi Shahu College of Pharmacy?",
+      "institute": "RSCOPR"
+    },
+    {
+      "id": "q11",
+      "category": "Management",
+      "question": "What are the intake and details for MBA and MCA at Jayawant Institute of Management Studies (JIMS)?",
+      "institute": "JIMS"
+    },
+    {
+      "id": "q12",
+      "category": "Scholarships",
+      "question": "How can students apply for Maharashtra State (MahaDBT) fee concessions and scholarships?",
+      "institute": "ALL"
+    }
+  ]
+}
