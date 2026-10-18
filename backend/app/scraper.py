@@ -31,7 +31,7 @@ DEFAULT_TARGET_URLS = [
     {"url": "https://jspmbps.edu.in/", "institute": "POLYTECHNIC", "topic": "Polytechnic Portal"}
 ]
 
-def clean_html_content(html: str) -> Tuple_Text:
+def clean_html_content(html: str) -> tuple[str, str]:
     soup = BeautifulSoup(html, "html.parser")
 
     # Remove script, style, nav, footer, header, noscript, svg, form
@@ -58,8 +58,8 @@ def clean_html_content(html: str) -> Tuple_Text:
     text = re.sub(r'\n{3,}', '\n\n', text)
     return title, text
 
-class Tuple_Text:
-    pass
+# class Tuple_Text:
+#     pass
 
 def compute_hash(text: str) -> str:
     return hashlib.sha256(text.encode("utf-8")).hexdigest()
